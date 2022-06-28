@@ -10,7 +10,7 @@ export const BannerData = {
           ' All gamer enthusiests can watch gameplay from various popular titles under the Gameplay section.',
 
    desc2: '  Mobile: Click side bar menu on the upper right corner.'+
-        ' Click on the tabs in the Navigation Bar above to directed accordingly.',
+        ' Web: Click on the tabs in the Navigation Bar above to directed accordingly.',
   buttonLabel: 'Learn More',
   buttonLink: 'about',
   lightText: true

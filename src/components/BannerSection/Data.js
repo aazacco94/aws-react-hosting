@@ -1,6 +1,8 @@
+import bannerVid from '../../videos/video.mp4'
+
 export const BannerData = {
   id: 'home',
-  videolink: require('../../videos/video.mp4'),
+  videolink: bannerVid,
   header: 'Zacco Software Enterprise',
   desc1: 'Welcome to the website showcase towards the programmatic abilities of the one and only Alex Zacco.'+
           ' All interested employers can find my resume below in the Certifications section.'+
